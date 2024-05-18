@@ -22,14 +22,10 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 1
 
- 
-# Output - 2
-
-
 ![Screenshot (6)](https://github.com/QuantumCoding123/Day-32-Amazing-Shoes-Shopping-Website-Template/assets/166281221/416fd32b-3153-473b-890d-191778f6cedc)
 
 
-# Output - 3
+# Output - 2
 
 ![Screenshot (7)](https://github.com/QuantumCoding123/Day-32-Amazing-Shoes-Shopping-Website-Template/assets/166281221/22b9f585-947b-4e1a-9e9f-fdeede41922f)
 
